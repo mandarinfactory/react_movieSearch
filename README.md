@@ -7,7 +7,7 @@ reactJS를 기반으로 영화진흥위원회(kofic), 한국영상자료원(kmdb
 https://react-moviesearch-30490.web.app/
 
 ## 🕰️ 개발 기간
-- 23.03월 - 23.05월
+- 23.05월 - 23.07월
 
 ## ⚙️ 개발환경
 - 바닐라JS
