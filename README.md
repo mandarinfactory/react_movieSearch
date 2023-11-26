@@ -22,7 +22,7 @@ https://react-moviesearch-30490.web.app/
 - firebase인증API(https://firebase.google.com/docs/auth?hl=ko)
 
 ## 📌주요 기능
-### 박스오피스 / 상영예정작
+### 박스오피스 / 상영예정작 - <a href="https://github.com/mandarinfactory/react_movieSearch/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5(%EB%B0%95%EC%8A%A4%EC%98%A4%ED%94%BC%EC%8A%A4,--%EC%83%81%EC%98%81%EC%98%88%EC%A0%95%EC%9E%91)">위키</a>
 - 박스오피스는 영화진흥위원회API를 이용해서 데이터를 가져와 구현했습니다.
 - 상영예정작은 tmdbAPI를 이용해서 데이터를 가져와 구현했습니다.
 - 해당 영화를 클릭하면 영화정보 박스가 나오게 구현했습니다.
