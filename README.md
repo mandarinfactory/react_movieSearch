@@ -36,5 +36,5 @@ https://react-moviesearch-30490.web.app/
 - 하드코딩으로 장르별로 무작위로 나오게끔 구현했습니다.(장르만 하드코딩으로 넣어놓음)
 - 무작위로 나온 장르 및 해당 영화들이 간단하게 나오게끔 구현했습니다.
 
-### 로그인 칸
+### 로그인 칸 - <a href="https://github.com/mandarinfactory/react_movieSearch/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5(%EB%A1%9C%EA%B7%B8%EC%9D%B8)">위키</a>
 - firebase인증API룰 이용해서 간단한 회원가입 / 로그인 modal를 구현했습니다. 
