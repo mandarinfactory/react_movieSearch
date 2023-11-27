@@ -13,7 +13,7 @@ https://react-moviesearch-30490.web.app/
 - 바닐라JS
 - React JS
 - tailwind CSS
-- firebase(베포)
+- firebase(배포)
 
 ## ⚙️ 사용API
 - 영화진흥위원회API(https://www.kobis.or.kr/kobisopenapi/homepg/apiservice/searchServiceInfo.do)
